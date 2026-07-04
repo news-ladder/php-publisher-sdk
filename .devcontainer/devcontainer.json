@@ -1,6 +1,6 @@
 {
   "name": "PHP",
-  "image": "mcr.microsoft.com/devcontainers/php:1-8-bookworm",
+  "image": "mcr.microsoft.com/devcontainers/php:4-8-bookworm",
   "forwardPorts": [],
   "features": {
     "ghcr.io/devcontainers-extra/features/composer:1": {}
